@@ -2,8 +2,8 @@
 ### Junior Software Developer | Software Engineering Student | UTN Costa Rica
 
 ## 📄 CV
-- 🇪🇸 [Ver CV en Español](./CV_Emanuel_Madrigal_.pdf)
-- 🇺🇸 [View CV in English](./CV_Emanuel_Madrigal_EN.pdf)
+🇪🇸 Ver CV en Español
+🇺🇸 View CV in English
 
 ## 🛠️ Technical Skills
 - **Languages:** Java | C# | Python | SQL
