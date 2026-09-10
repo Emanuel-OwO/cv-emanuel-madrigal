@@ -1,14 +1,16 @@
 # Emanuel Madrigal Guzmán
-### Software Engineering Student | UTN Costa Rica
+### Junior Software Developer | Software Engineering Student | UTN Costa Rica
 
 ## 📄 CV
 - 🇪🇸 [Ver CV en Español](./CV_Emanuel_Madrigal_.pdf)
 - 🇺🇸 [View CV in English](./CV_Emanuel_Madrigal_EN.pdf)
 
 ## 🛠️ Technical Skills
-- **Languages:** Java | C# | Python
-- **Databases:** SQL | MySQL
-- **Tools:** Microsoft Office | Git
+- **Languages:** Java | C# | Python | SQL
+- **Databases:** SQL Server | MySQL
+- **Development** .NET Framework 4.8, Windows Forms, OOP, N-Layer Architecture, CRUD
+- **Tools:** Visual Studio 2022, NetBeans, Git, GitHub/GitLab, Log4Net, QuestPDF
+
 
 ## 🎓 Certifications
 - Python Essentials 1 — Cisco Networking Academy
@@ -19,3 +21,4 @@
 ## 📫 Contact
 - 📧 madrigalduzmanemanuel990@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/emanuel-madrigal-guzman)
+- 🌐 Portfolio
